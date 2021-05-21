@@ -1,0 +1,229 @@
+{
+  "freelancer": [
+    {
+      "name": "John Mackie",
+      "skills": [
+        "Painting",
+        "Dog-walking",
+        " land-scaping"
+      ],
+      "rate": 15,
+      "rating": "",
+      "status": "Available",
+      "image": "https://thumbs.dreamstime.com/z/cheerful-smiling-man-takes-selfie-photo-his-best-friend-bea-cheerful-smiling-man-takes-selfie-photo-his-best-friend-133356442.jpg",
+      "bio": "Friendly professional who loves animals and being outdoors",
+      "id": 1
+    },
+    {
+      "name": "Jennifer West",
+      "skills": [
+        "Car-repair",
+        "Construction",
+        "Organization"
+      ],
+      "rate": 20,
+      "rating": "",
+      "status": "Available",
+      "image": "https://image.shutterstock.com/image-photo/young-caucasian-female-mechanic-uniform-600w-1938355474.jpg",
+      "bio": "Tough and technical professional",
+      "id": 2
+    },
+    {
+      "name": "Chris Roberts",
+      "skills": [
+        "Car-repair",
+        "Construction",
+        "Cooking",
+        "Dog-walking",
+        "Gardening",
+        " Land-scaping",
+        "Organization",
+        "Painting"
+      ],
+      "rate": 30,
+      "rating": "",
+      "status": "Available",
+      "image": "https://images.pexels.com/photos/6790072/pexels-photo-6790072.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "bio": "Self described  Jack of all trades",
+      "id": 3
+    },
+    {
+      "name": "Amanda Smith",
+      "skills": [
+        "Dog-walking",
+        "Construction",
+        "Cooking"
+      ],
+      "rate": 15,
+      "rating": "",
+      "status": "Available",
+      "image": "https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "bio": "Dependable professional who gets the job done",
+      "id": 4
+    },
+    {
+      "name": "Alex Hunter",
+      "skills": [
+        "Painting",
+        "Organization",
+        "Gardening"
+      ],
+      "rate": 15,
+      "rating": "",
+      "status": "Available",
+      "image": "https://media.gettyimages.com/photos/urban-garden-on-top-of-the-city-picture-id946850198?k=6&m=946850198&s=612x612&w=0&h=JACRCiNuEKx10nLlOttXrZCfA662GIyb4Q8cMnYMHCo=",
+      "bio": "Quiet professional who takes pride in his work ",
+      "id": 5
+    },
+    {
+      "name": "Brittney Jones",
+      "skills": [
+        "Car-repair",
+        " Land-scaping",
+        "Cooking"
+      ],
+      "rate": 25,
+      "rating": "",
+      "status": "Available",
+      "image": "https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "bio": "Eccentric professional who loves working with Dirt and Cars ",
+      "id": 6
+    },
+    {
+      "name": "Dave Crouch",
+      "skills": [
+        "Dog-walking",
+        "Organization",
+        "Gardening"
+      ],
+      "rate": 15,
+      "rating": "",
+      "status": "Available",
+      "image": "https://media.istockphoto.com/photos/professional-dog-walker-or-pet-sitter-walking-a-pack-of-cute-breed-picture-id1178180431?k=6&m=1178180431&s=612x612&w=0&h=SjrqLhJhZ4f4uz8IPggU2eNsC-5zaIOm_NKQzkSmRKo=",
+      "bio": "Calm Reserved professional who enjoys quiet relaxing jobs ",
+      "id": 7
+    },
+    {
+      "name": " Felicia Freeman",
+      "skills": [
+        "Painting",
+        "Construction",
+        "Gardening"
+      ],
+      "rate": 25,
+      "rating": "",
+      "status": "Available",
+      "image": "https://images.pexels.com/photos/6474502/pexels-photo-6474502.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "bio": "Artistic professional who likes to showcase art through work ",
+      "id": 8
+    },
+    {
+      "name": "Oliver Potter",
+      "skills": [
+        "Car-repair",
+        " Land-scaping",
+        "Cooking"
+      ],
+      "rate": 25,
+      "rating": "",
+      "status": "Available",
+      "image": "https://images.pexels.com/photos/4489773/pexels-photo-4489773.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "bio": "Awesome Professional who thrives at fixing cars and Cooking",
+      "id": 9
+    },
+    {
+      "name": "Veronica Weasley",
+      "skills": [
+        "Car-repair",
+        "Construction",
+        "Cooking",
+        "Dog-walking",
+        "Gardening",
+        " Land-scaping",
+        "Organization",
+        "Painting"
+      ],
+      "rate": 30,
+      "rating": "",
+      "status": "Available",
+      "image": "https://images.pexels.com/photos/6232020/pexels-photo-6232020.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "bio": " She can do just about anything",
+      "id": 10
+    }
+
+  ],
+  "openJobs": [
+    {
+      "id": 0,
+      "dateRequested": "",
+      "name": "",
+      "job": "",
+      "description": "",
+      "freelancerId": ""
+    },
+    {
+      "id": 1,
+      "dateRequested": "2021-05-22",
+      "name": "Jennifer West",
+      "job": "Oil Change",
+      "description": "Buble",
+      "freelancerId": "2"
+    },
+    {
+      "id": 2,
+      "dateRequested": "2021-05-28",
+      "name": "Amanda Smith",
+      "job": "Plumbing",
+      "description": "Burger",
+      "freelancerId": "4"
+    },
+    {
+      "id": 3,
+      "dateRequested": "2021-05-29",
+      "name": "Veronica Weasley",
+      "job": "Oil Change",
+      "description": "12 hours shift work with bonus",
+      "freelancerId": "10"
+    },
+    {
+      "id": 4,
+      "dateRequested": "2021-05-14",
+      "name": "Jennifer West",
+      "job": "Oil Change",
+      "description": "Kim",
+      "freelancerId": "2"
+    },
+    {
+      "id": 5,
+      "dateRequested": "",
+      "name": "John Mackie",
+      "job": "Pipe",
+      "description": "Burger",
+      "freelancerId": "1"
+    },
+    {
+      "id": 6,
+      "dateRequested": "2021-05-28",
+      "name": "Jennifer West",
+      "job": "Cutter",
+      "description": "Kim",
+      "freelancerId": "2"
+    }
+  ],
+  "completedJobs": [
+    {
+      "id": 1,
+      "name": "Fake",
+      "job": "Plumbing",
+      "rate": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "review": "*****",
+      "freelancerId": "2"
+    }
+  ]
+}
