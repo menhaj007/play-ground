@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>NVCC Compasses</title>
+
+    <style>
+        .alert-danger{
+            color: red;
+            font-family: 'Courier New', Courier, monospace;
+            size: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="allCompasses">
+        <div class="container">
+            <h1>Welcome NVCC!</h1>
+                <table>
+                    <thead>
+                        <th>NVCC Name </th>
+                        <th>Action</th>
+                        <th>Registered students</th>
+                    </thead>
+                    <!-- for method: don't use th:method -->
+                <tr th:each="nvcc: ${nvccList}">
+                        <td th:text="${nvcc.name}" />
+                        <td>
+                            <form action="#" th:action="@{'/destroy/{id}'(id=${nvcc.id})}" method="DELETE" >
+                                <input type="hidden" name="_method" value="delete" />
+                                <button type="submit" value="delete">Delete </button>
+                            </form>
+                        </td>      
+                </tr>
+                </table>
+        </div>
+    </div>
+    <div class="container">
+        <h1>Please add a compass!</h1>
+            
+        <form action="#" th:action="@{/create}" th:object="${nvcc}" method="POST">
+            <div class="alert-danger" th:if="${#fields.hasErrors('*')}">
+                    <p th:each="err : ${#fields.errors('*')}" th:text="${err}"></p>    
+            </div>
+        
+            <table border="1">
+                <tr>
+                    <td><label th:text="Name" /></td>
+                </tr>
+                <tr>
+                    <td><input type="text" th:field="*{name}" /></td>
+                </tr>
+                
+            </table>
+            
+            <button type="submit" value="Create" >Create</button>
+        </form>
+    </div>
+    
+
+
+
+
+
+</body>
+</html>

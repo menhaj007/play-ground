@@ -1,0 +1,26 @@
+<table>
+    <tr>
+        <!-- <th>No#</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Price</th> -->
+    </tr>
+        <td th:value="${product.id}" />
+        <!-- <td th:text="${product.name}"/>
+        <td th:text="${product.description}"/>
+        <td th:text="${product.price}"/> -->
+        <!-- <td th:text="${product.categories}"/> -->
+        <div>
+            <select th:field="*{catObj}">
+                <option th:each="cat : ${allCats}" th:value="${cat.id}" th:text="${cat.name}"/>
+            </select>
+        </div>
+    </tr>
+</table>
+    <button>Add</button>
+</div>
+
+
+<select th:field="*{categoryObj}">
+    <option th:each="cat : ${allCats}" th:value="${cat.id}" th:text="${cat.name}"/>
+</select>

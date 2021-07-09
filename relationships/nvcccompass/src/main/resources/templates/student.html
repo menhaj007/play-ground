@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>NVCC Compasses</title>
+
+    <style>
+        .alert-danger{
+            color: red;
+            font-family: 'Courier New', Courier, monospace;
+            size: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="allCompasses">
+        <div class="container">
+            <h1>Welcome NVCC!</h1>
+               
+        </div>
+    </div>
+    <div class="container">
+        <h1>Please add a Ninja</h1>
+            
+        <!-- <ul th:each="nvcc: ${nvccCompassList}">
+            <td th:text="${nvcc.name}" />
+           
+            <td>
+                
+            </td>      
+        </ul> -->
+        
+
+        
+       
+
+    </div>
+    <!-- <select th:field="*{nvccCompassList}">
+        <option th:each="nvcc: ${nvccCompassList}" th:value="${nvcc.id}" th:text="${nvcc.name}"/>
+   </select> -->
+    <form action="#" th:action="@{'/student/new'}" th:object="${studentObj}" method="POST">
+        <div class="alert-danger" th:if="${#fields.hasErrors('*')}">
+                <p th:each="err : ${#fields.errors('*')}" th:text="${err}"></p>    
+        </div>
+    
+        <table border="1">
+            <tr>
+                <select th:field="*{nvcc.id}">
+                <option
+                            th:each="nvcc : ${nvccCompassList}"
+                            th:value="${nvcc.id}"
+                            th:text="${nvcc.name}"
+                    />
+                </select>
+        
+    </tr>
+            <tr>
+                <td><label th:text="firstName" /></td>
+            </tr>
+            <tr>
+                <td><input type="text" th:field="*{firstName}" /></td>
+            </tr>
+            <tr>
+                <td><label th:text="lastName" /></td>
+            </tr>
+            <tr>
+                <td><input type="text" th:field="*{lastName}" /></td>
+            </tr>
+            <tr>
+                <td><label th:text="age" /></td>
+            </tr>
+            <tr>
+                <td><input type="text" th:field="*{age}" /></td>
+            </tr>
+            
+        </table>
+        
+        <button type="submit" value="Create" >Create</button>
+    </form>
+
+
+
+
+
+
+</body>
+</html>

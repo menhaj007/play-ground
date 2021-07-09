@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head> 
+    <title>Product Page</title> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <h1>Products</h1>
+    <table>
+        <tr>
+            <th>No#</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+        </tr>
+        <tr th:each="product : ${allProducts}">
+            <td th:text="${product.id}" />
+            <td th:text="${product.name}"/>
+            <td th:text="${product.description}"/>
+            <td th:text="${product.price}"/>
+            <!-- <td th:text="${product.categories}"/> -->
+        </tr>
+    </table>
+    
+</body>
+</html>

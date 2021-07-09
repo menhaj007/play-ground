@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head> 
+    <title>All Cats!</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+	<h1>Category!</h1>
+    <div>
+        <table>
+            <tr>
+                <th>Name</th>
+
+            </tr>
+            <tr th:each="cat : ${allCats}">
+                <td th:text="${cat.name}" />
+                <!-- <td th:text="${product.categories}"/> -->
+            </tr>
+        </table>
+    </div>
+    <div>
+        <!-- <form action="#" th:action="@{/category}" th:object="${categoryObj}" method="POST">
+            <p>Name: <input type="text" th:field="*{name}" /></p>
+            <button>Create</button> 
+            <input type="reset" value="Reset" />
+        </form> -->
+    </div>
+</body>
+</html>
