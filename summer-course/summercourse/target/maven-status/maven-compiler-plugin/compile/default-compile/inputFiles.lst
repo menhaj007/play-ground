@@ -1,0 +1,9 @@
+/Users/menhaj/Documents/FlatIronSchool/summer-course/summercourse/src/main/java/com/summer/summercourse/SummercourseApplication.java
+/Users/menhaj/Documents/FlatIronSchool/summer-course/summercourse/src/main/java/com/summer/summercourse/models/StudentCourseLink.java
+/Users/menhaj/Documents/FlatIronSchool/summer-course/summercourse/src/main/java/com/summer/summercourse/repositories/StudentRepo.java
+/Users/menhaj/Documents/FlatIronSchool/summer-course/summercourse/src/main/java/com/summer/summercourse/models/Student.java
+/Users/menhaj/Documents/FlatIronSchool/summer-course/summercourse/src/main/java/com/summer/summercourse/controllers/HomeController.java
+/Users/menhaj/Documents/FlatIronSchool/summer-course/summercourse/src/main/java/com/summer/summercourse/services/SCService.java
+/Users/menhaj/Documents/FlatIronSchool/summer-course/summercourse/src/main/java/com/summer/summercourse/models/Course.java
+/Users/menhaj/Documents/FlatIronSchool/summer-course/summercourse/src/main/java/com/summer/summercourse/repositories/CourseRepo.java
+/Users/menhaj/Documents/FlatIronSchool/summer-course/summercourse/src/main/java/com/summer/summercourse/repositories/StudentCourseLinkRepo.java

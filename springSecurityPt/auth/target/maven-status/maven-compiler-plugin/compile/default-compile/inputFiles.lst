@@ -1,0 +1,9 @@
+/Users/menhaj/Documents/FlatIronSchool/springSecurityPt/auth/src/main/java/com/springsecurityauthproject/auth/config/WebSecurityConfig.java
+/Users/menhaj/Documents/FlatIronSchool/springSecurityPt/auth/src/main/java/com/springsecurityauthproject/auth/controllers/Users.java
+/Users/menhaj/Documents/FlatIronSchool/springSecurityPt/auth/src/main/java/com/springsecurityauthproject/auth/models/User.java
+/Users/menhaj/Documents/FlatIronSchool/springSecurityPt/auth/src/main/java/com/springsecurityauthproject/auth/AuthApplication.java
+/Users/menhaj/Documents/FlatIronSchool/springSecurityPt/auth/src/main/java/com/springsecurityauthproject/auth/repositories/UserRepository.java
+/Users/menhaj/Documents/FlatIronSchool/springSecurityPt/auth/src/main/java/com/springsecurityauthproject/auth/models/Role.java
+/Users/menhaj/Documents/FlatIronSchool/springSecurityPt/auth/src/main/java/com/springsecurityauthproject/auth/repositories/RoleRepository.java
+/Users/menhaj/Documents/FlatIronSchool/springSecurityPt/auth/src/main/java/com/springsecurityauthproject/auth/controllers/AuthController.java
+/Users/menhaj/Documents/FlatIronSchool/springSecurityPt/auth/src/main/java/com/springsecurityauthproject/auth/ServletInitializer.java

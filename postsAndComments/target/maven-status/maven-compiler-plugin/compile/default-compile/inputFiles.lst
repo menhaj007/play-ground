@@ -1,0 +1,14 @@
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/models/User.java
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/models/Post.java
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/repositories/PostRepository.java
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/services/UserService.java
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/controllers/CommentController.java
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/services/CommentService.java
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/repositories/CommentRepository.java
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/services/PostService.java
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/repositories/UserRepository.java
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/controllers/HomeController.java
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/models/Comment.java
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/controllers/UserController.java
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/PostsandcommentsApplication.java
+/Users/menhaj/Documents/FlatIronSchool/postsAndComments/src/main/java/com/yourideasmatter/postsandcomments/controllers/PostController.java

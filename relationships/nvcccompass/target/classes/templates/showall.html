@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>All NVCC</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome NVCC!</h1>
+        <!-- <h1><p th:text="'Hello, ' + ${name} + '!'" /></h1> -->
+            <table>
+                <thead>
+                    <tr><th>Name: <td th:text="${college.name}" /> </th> </tr>
+                    <tr><th>Registered Students</th></tr>
+                </thead>
+            <tr th:each="student: ${studentsNVCCList}">
+                    <td th:text="${student.firstName}" />         
+                    <td th:text="${student.lastName}" /> 
+            </tr>
+            </table>
+    </div>
+
+</body>
+</html>

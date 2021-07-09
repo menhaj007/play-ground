@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23b6e216-d512-4dfd-838d-ef078edf977d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoSumsChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../night/src/main/java/com/shownight/night/models/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../night/src/main/java/com/shownight/night/models/Viewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../night/src/main/java/com/shownight/night/repositories/StreamRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../night/src/main/java/com/shownight/night/repositories/ViewerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oranglesales/src/main/java/com/customerservice/oranglesales/controllers/ProductCategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oranglesales/src/main/java/com/customerservice/oranglesales/models/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oranglesales/src/main/java/com/customerservice/oranglesales/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oranglesales/src/main/java/com/customerservice/oranglesales/repositories/CategoryRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oranglesales/src/main/java/com/customerservice/oranglesales/repositories/ProductRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oranglesales/src/main/java/com/customerservice/oranglesales/services/CategoryProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oranglesales/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oranglesales/src/main/webapp/WEB-INF/product.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suncar/src/main/java/com/suncars/suncar/models/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suncar/src/main/java/com/suncars/suncar/models/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suncar/src/main/java/com/suncars/suncar/repositories/CarRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suncar/src/main/java/com/suncars/suncar/repositories/OwnerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js-lectures-dom-manipulation" beforeDir="false" afterPath="$PROJECT_DIR$/../../js-lectures-dom-manipulation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../macos-env-flatiron-student-portal" beforeDir="false" afterPath="$PROJECT_DIR$/../../macos-env-flatiron-student-portal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../online-practice/spring-boot-react-fullstack-examples" beforeDir="false" afterPath="$PROJECT_DIR$/../../online-practice/spring-boot-react-fullstack-examples" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../phase-3-movies/code-challenge" beforeDir="false" afterPath="$PROJECT_DIR$/../../phase-3-movies/code-challenge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plaground/restaurantApp" beforeDir="false" afterPath="$PROJECT_DIR$/../../plaground/restaurantApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play-ground/DC-SE-040521-Code-Challenge" beforeDir="false" afterPath="$PROJECT_DIR$/../../play-ground/DC-SE-040521-Code-Challenge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play-ground/codeAlong/cc-round-1-review" beforeDir="false" afterPath="$PROJECT_DIR$/../../play-ground/codeAlong/cc-round-1-review" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play-ground/codeAlong/lifecycle-forms-code-along" beforeDir="false" afterPath="$PROJECT_DIR$/../../play-ground/codeAlong/lifecycle-forms-code-along" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play-ground/code_along/lifecycle-forms-code-along" beforeDir="false" afterPath="$PROJECT_DIR$/../../play-ground/code_along/lifecycle-forms-code-along" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play-ground/codingChallenge/lifecycle-forms-code-along" beforeDir="false" afterPath="$PROJECT_DIR$/../../play-ground/codingChallenge/lifecycle-forms-code-along" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play-ground/freelance-db" beforeDir="false" afterPath="$PROJECT_DIR$/../../play-ground/freelance-db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play-ground/lifecycle-forms-code-along" beforeDir="false" afterPath="$PROJECT_DIR$/../../play-ground/lifecycle-forms-code-along" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play-ground/redoCC1/cc-round-1-review" beforeDir="false" afterPath="$PROJECT_DIR$/../../play-ground/redoCC1/cc-round-1-review" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play-ground/ruby/cc/phase-3-object-relations-practice-code-challenge-magazines-many-many" beforeDir="false" afterPath="$PROJECT_DIR$/../../play-ground/ruby/cc/phase-3-object-relations-practice-code-challenge-magazines-many-many" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play-ground/ruby/phase-3-ruby-oo-object-relationships-kickstarter-lab" beforeDir="false" afterPath="$PROJECT_DIR$/../../play-ground/ruby/phase-3-ruby-oo-object-relationships-kickstarter-lab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play-ground/state-events-code-along" beforeDir="false" afterPath="$PROJECT_DIR$/../../play-ground/state-events-code-along" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react-springboot-mysql" beforeDir="false" afterPath="$PROJECT_DIR$/../../react-springboot-mysql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../samples/phase-2-project-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/../../samples/phase-2-project-frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboot-invitation" beforeDir="false" afterPath="$PROJECT_DIR$/../../springboot-invitation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springreact/bookapi" beforeDir="false" afterPath="$PROJECT_DIR$/../../springreact/bookapi" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/menhaj007/play-ground" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uI2MVlz6hNYLkFV26gVcciiRen" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.TwoSumsChallenge">
+    <configuration name="MainDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainDriver" />
+      <module name="algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Subject" />
+      <module name="algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSumsChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoSumsChallenge" />
+      <module name="algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwoSumsChallenge" />
+        <item itemvalue="Application.MainDriver" />
+        <item itemvalue="Application.Subject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23b6e216-d512-4dfd-838d-ef078edf977d" name="Default Changelist" comment="" />
+      <created>1624338734547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624338734547</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

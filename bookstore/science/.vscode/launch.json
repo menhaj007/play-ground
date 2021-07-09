@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ScienceApplication<science>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.afghanbooksales.science.ScienceApplication",
+            "projectName": "science",
+            "args": ""
+        }
+    ]
+}
